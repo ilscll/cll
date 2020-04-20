@@ -1,2 +1,2 @@
 # cll
-echo "HELOO WORD"
+echo "HELLO WORD"
